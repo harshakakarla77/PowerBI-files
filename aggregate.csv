@@ -1,0 +1,27 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+constituent-persons Affiliation Type id,1,1361,1361,1361,1361,1361,1361,1361,0.000%,.73475,2.91,0.20
+constituent-persons POST,1,4016,4016,4016,4016,4016,4016,4016,0.000%,.24900,0.23,0.21
+constituent-persons GET,1,707,707,707,707,707,707,707,0.000%,1.41443,1.29,0.43
+constituent-persons PUT,1,3921,3921,3921,3921,3921,3921,3921,0.000%,.25504,0.26,0.42
+constituent-persons DELETE,1,1610,1610,1610,1610,1610,1610,1610,0.000%,.62112,0.15,0.24
+constituent-organizations Advancement Types POST,1,978,978,978,978,978,978,978,0.000%,1.02249,10.53,0.28
+constituent-organizations POST,1,1227,1227,1227,1227,1227,1227,1227,0.000%,.81500,0.67,0.49
+constituent-organizations GET,1,567,567,567,567,567,567,567,0.000%,1.76367,1.44,0.55
+constituent-organizations PUT,1,4384,4384,4384,4384,4384,4384,4384,0.000%,.22810,0.23,0.33
+constituent-organizations DELETE,1,814,814,814,814,814,814,814,0.000%,1.22850,0.29,0.48
+constituent-education Campus id,1,938,938,938,938,938,938,938,0.000%,1.06610,1.17,0.27
+constituent-education POST,1,655,655,655,655,655,655,655,0.000%,1.52672,0.95,0.89
+constituent-education GET,1,444,444,444,444,444,444,444,0.000%,2.25225,1.40,0.69
+constituent-education PUT,1,924,924,924,924,924,924,924,0.000%,1.08225,0.81,1.08
+constituent-education DELETE,1,503,503,503,503,503,503,503,0.000%,1.98807,0.47,0.77
+constituent-involvements Participation id,1,942,942,942,942,942,942,942,0.000%,1.06157,1.56,0.30
+constituent-involvements POST,1,405,405,405,405,405,405,405,0.000%,2.46914,1.73,1.39
+constituent-involvements GET,1,257,257,257,257,257,257,257,0.000%,3.89105,2.73,1.20
+constituent-involvements PUT,1,467,467,467,467,467,467,467,0.000%,2.14133,1.78,2.40
+constituent-involvements DELETE,1,333,333,333,333,333,333,333,0.000%,3.00300,0.71,1.18
+constituent-person-business-relationships directRelationship id,1,1077,1077,1077,1077,1077,1077,1077,0.000%,.92851,4.09,0.27
+constituent-person-business-relationships POST,1,498,498,498,498,498,498,498,0.000%,2.00803,1.42,2.53
+constituent-person-business-relationships GET,1,289,289,289,289,289,289,289,0.000%,3.46021,2.44,1.13
+constituent-person-business-relationships PUT,1,644,644,644,644,644,644,644,0.000%,1.55280,1.10,1.56
+constituent-person-business-relationships DELETE,1,361,361,361,361,361,361,361,0.000%,2.77008,0.65,1.13
+TOTAL,25,1132,707,1610,4016,4384,257,4384,0.000%,.86727,1.19,0.52
